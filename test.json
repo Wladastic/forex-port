@@ -1,0 +1,83 @@
+{
+    "div": [
+        {
+            "class": "summary",
+            "content": "Summary:",
+            "span": {
+                "title": "",
+                "class": "neutral uppercaseText",
+                "content": "Neutral"
+            }
+        },
+        {
+            "class": "summaryTableLine",
+            "span": [
+                "Moving Averages:",
+                {
+                    "class": "redFont bold",
+                    "content": "Sell"
+                },
+                {
+                    "i": [
+                        {
+                            "class": "noBold",
+                            "content": "Buy"
+                        },
+                        {
+                            "id": "maBuy",
+                            "content": "(5)"
+                        }
+                    ]
+                },
+                {
+                    "i": [
+                        {
+                            "class": "noBold",
+                            "content": "Sell"
+                        },
+                        {
+                            "id": "maSell",
+                            "content": "(7)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "summaryTableLine",
+            "span": [
+                "Technical Indicators:",
+                {
+                    "class": "greenFont bold",
+                    "content": "Strong Buy"
+                },
+                {
+                    "i": [
+                        {
+                            "class": "noBold",
+                            "content": "Buy"
+                        },
+                        {
+                            "id": "tiBuy",
+                            "content": "(6)"
+                        }
+                    ]
+                },
+                {
+                    "i": [
+                        {
+                            "class": "noBold",
+                            "content": "Sell"
+                        },
+                        {
+                            "id": "tiSell",
+                            "content": "(1)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "id": "techStudiesInnerWrap",
+    "class": "newTechStudiesRight instrumentTechTab"
+}
